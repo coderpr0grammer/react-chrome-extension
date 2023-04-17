@@ -23,7 +23,7 @@ module.exports = {
     extensions: [".tsx", ".ts", ".js"],
   },
   output: {
-    filename: "content.js",
+    filename: "content.html",
     path: path.resolve(__dirname, "..", "extension"),
   },
 };
